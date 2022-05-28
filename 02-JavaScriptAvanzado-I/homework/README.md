@@ -96,6 +96,7 @@ parseInt("09")
 > Si te quedó alguna duda repasá con [este artículo](http://javascript.info/tutorial/object-conversion).
 
 
+
 ### Hoisting
 
 ¿Cuál es el output o salida en consola luego de ejecutar este código? Explicar por qué:
